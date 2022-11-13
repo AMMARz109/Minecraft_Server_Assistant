@@ -1,0 +1,14 @@
+name: ServerAssistant
+version: '${project.version}'
+main: me.ammardev.serverassistant.ServerAssistant
+api-version: 1.19
+authors: [ AMMARDEV ]
+description: better play more fun
+website: ammardevz.wordpress.com
+commands:
+  sethome:
+    description: set your home
+  home:
+    description: return you home back
+  rtp:
+    description: Random teleport
